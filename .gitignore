@@ -1,6 +1,9 @@
 # Local reference material — not part of this repo
 _reference/
 
+# Product code lives in its own repo, never in the governance repo
+anchor/
+
 # OS / editor cruft
 .DS_Store
 Thumbs.db
